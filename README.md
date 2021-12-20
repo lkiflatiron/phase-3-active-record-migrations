@@ -281,7 +281,7 @@ $ bundle exec rake db:migrate
 
 == 20210716095220 CreateArtists: migrating ====================================
 -- create_table(:artists)
-   -> 0.0008s
+   -> 0.0008sbu
 == 20210716095220 CreateArtists: migrated (0.0009s) ===========================
 ```
 
